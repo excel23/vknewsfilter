@@ -1,7 +1,8 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name           VK.com news filter  (Фильтр новостей Вконтакте)
 // @description    Фильтр новостей вконтакте (Работает на новом дизайне). В данном виде скрипт навсегда избавит вас от назойливых розыгрышей призов за репосты. При желании вы можете сами добавить нужные вам фильтры.
 // @author         Anton Zr.
+// @homepage       https://github.com/excel23/vknewsfilter
 // @include        *://vk.com/feed*
 // @version        0.0.2.2
 // @grant          none
