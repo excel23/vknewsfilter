@@ -4,7 +4,7 @@
 // @author         Anton Zr.
 // @homepage       https://github.com/excel23/vknewsfilter
 // @include        *://vk.com/feed*
-// @version        0.0.2.2
+// @version        0.0.2.3
 // @grant          none
 // @namespace vk.nf
 // ==/UserScript==
